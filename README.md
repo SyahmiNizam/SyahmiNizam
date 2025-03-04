@@ -2,7 +2,7 @@
 My name is Muhammad Syahmi bin Mohd Nizam, and I am a final-year Diploma student in Computing Technology at Kolej Vokasional Sepang. proficient in web/software/mobileapp development, database management, and system integration. 
 My CGPA is 3.93.
 With my current project is a web app called PurpleGarden.
-PurpleGarden are where user can draw and journal to release pent up stress or just enjoy it in general.
+PurpleGarden is a web-app where user can draw and journal to release pent up stress or just enjoy it in general.
 
 
 ## 🌐Socials
