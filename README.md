@@ -13,7 +13,6 @@ PurpleGarden are where user can draw and journal to release pent up stress or ju
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=SyahmiNizam&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SyahmiNizam&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SyahmiNizam&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
